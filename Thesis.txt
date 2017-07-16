@@ -2,11 +2,17 @@ Chapter 1
 
 1.1 Introduction
 
-	/intro
+	In the fast-paced modern world, where technology progresses rampantly, we try to keep up with today's trends as well as needs. 
 
-	In the fast-paced modern world, where technology progresses rampantly. We tried to keep up with today’s trends as well as needs.  //Today’s pace towards technology
-	
-	//
+// Today's paced towards technology, clinging to technology to makes life easier, 
+// becoming internet dependant (becoming a need)
+// about making every thing digitalized, for communications and processes, rapidly developing inernet
+// Point towards the popularity of delivery system, highlight online shopping websites (OSW)
+// say that almost everything on the OSW is just a few clicks away
+// internet booming in the ph
+// say some filipino related things here like we like to bargain, inheritly.
+// 
+// say here the manual hardwork process of compared similar products
 
 1.2 Background of the Study
 
@@ -48,9 +54,12 @@ Chapter 1
 1.6 Scope and Delimitation
 
 	1.6.1	Scope and Limitation of the System
-		The system will mine data from most used retailer online shopping websites specifically:
-		//list ng websites
-		The system won’t include second hand online shopping websites.
+		The system will mine data from most used retailer online shopping websites and will not second hand online shopping websites. specifically:
+			1. Lazada (lazada.com.ph)
+			2. Shopee (shopee.ph)
+			3. Amazon (amazon.com)
+			4. Zalora (zalora.com.ph)
+		The scope in assessing the best deals will base on the price of the product, including the shipping fee, the specifications, and numerical reviews regarding the product. The product prices will be displayed in Philippine Peso.
 		
 	1.6.2	Scope and Limitation of the Study
 		This study will focus on the accuracy of the finding the best deals of a product selected by the user at the top online shopping websites.
