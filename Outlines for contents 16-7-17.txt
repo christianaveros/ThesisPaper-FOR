@@ -1,14 +1,19 @@
 1.1 Introduction
 
-	In the fast-paced modern world, where technology progresses rampantly, We try to keep up
-with today's trends as well as needs. 
-
 // Today's paced towards technology, clinging to technology to makes life easier, 
 // becoming internet dependant (becoming a need)
 // about making every thing digitalized, for communications and processes, rapidly developing inernet
 // Point towards the popularity of delivery system, highlight online shopping websites (OSW)
 // say that almost everything on the OSW is just a few clicks away
 // internet booming in the ph
+// include here the shopping and it's problems right now
+
+1.2 bgots
+
 // say some filipino related things here like we like to bargain, inheritly.
-// 
 // say here the manual hardwork process of compared similar products
+// the problem of buying from secondhand promoting online stores, *include a study here about that*
+// include here some more studies of the same type. highlight the pros, what went good.
+// then the ones that need improvements
+// the main features needed (or what features we are intended to add)
+// say that we will build that.
