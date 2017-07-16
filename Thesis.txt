@@ -1,0 +1,62 @@
+Chapter 1
+
+1.1 Introduction
+
+	/intro
+
+	In the fast-paced modern world, where technology progresses rampantly. We tried to keep up with today’s trends as well as needs.  //Today’s pace towards technology
+	
+	//
+
+1.2 Background of the Study
+
+	//background
+
+	Most Filipino shoppers have a hard time jumping to another store into other store just to find the best deals of their wanted product, may it be a new pair of shoes, shining jeans, or maybe a newly released branded cap. As much as we can, we bargain, bargain, and bargain, most modern Filipino women would go to mall after mall just to buy off on-sale product which is also true for old-fashion mothers who would prefer to bargain just to get deals from their market suppliers. In today’s technological advantage, many shopper prefer e-commerce as their mode of shopping [Kitonyi, 2017]. // problem in e-commerce, insert here bgots in slides
+
+1.3 Conceptual Framework
+
+	1.3.1	Conceptual Framework of the System
+
+	// insert accuracy related concepts
+
+	TABLE FORM:
+	input > user’s search terms, OSW. Process > search the terms at osw using data mining, filtering item to display the best deals. Output > Best deals.
+
+1.4 Statement of the Problem
+
+	This study aims to develop a system that gets the best deal from various online shopping websites based on user’s search terms. // getting // finding out the deals, algo // accuracy of the results
+
+		1.Using the *algo1* algorithm, what is the accuracy of getting the relevant data from online shopping websites? // insert in conclusion, the percentage of accuracy.
+		
+		2.How should the algorithm be devised in order to get the best deals out of the listed relevant product? And:
+			a.What is the accuracy of the devised algorithm of getting the best deals?
+			b.What is the reliability of the algorithm in getting the right best deals?
+		
+		3.  // User experience related shit.
+
+1.5 Significance of the Study
+
+	The system will benefit the following people:
+
+		Online Shoppers. This study would benefit shoppers who wants to lessen their time on selecting the best deal.
+
+		Store Owners. This will benefit them by being able to search how they would price their own products.
+		
+		Future Researchers. This study will be a help as a guiding reference in making a system related to e-commerce.
+
+1.6 Scope and Delimitation
+
+	1.6.1	Scope and Limitation of the System
+		The system will mine data from most used retailer online shopping websites specifically:
+		//list ng websites
+		The system won’t include second hand online shopping websites.
+		
+	1.6.2	Scope and Limitation of the Study
+		This study will focus on the accuracy of the finding the best deals of a product selected by the user at the top online shopping websites.
+
+1.7 Definition of Terms
+	
+	Data Mining
+	
+	Online Shopping Websites
