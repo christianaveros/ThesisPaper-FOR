@@ -33,13 +33,13 @@ Chapter 1
 
 	This study aims to develop a system that gets the best deal from various online shopping websites based on user’s search terms. // getting // finding out the deals, algo // accuracy of the results
 
-		1.Using the *algo1* algorithm, what is the accuracy of getting the relevant data from online shopping websites? // insert in conclusion, the percentage of accuracy.
+		1. Using the *algo1* algorithm, what is the accuracy of getting the relevant data from online shopping websites? // insert in conclusion, the percentage of accuracy.
 		
-		2.How should the algorithm be devised in order to get the best deals out of the listed relevant product? And:
+		2. How should the algorithm be devised in order to get the best deals out of the listed relevant product? And:
 			a.What is the accuracy of the devised algorithm of getting the best deals?
 			b.What is the reliability of the algorithm in getting the right best deals?
 		
-		3.  // User experience related shit.
+		3. // User experience related shit.
 
 1.5 Significance of the Study
 
@@ -54,12 +54,14 @@ Chapter 1
 1.6 Scope and Delimitation
 
 	1.6.1	Scope and Limitation of the System
-		The system will mine data from most used retailer online shopping websites and will not second hand online shopping websites. specifically:
+		The system will mine data from popular retailer online shopping websites and will not include second hand online shopping websites, specifically:
 			1. Lazada (lazada.com.ph)
 			2. Shopee (shopee.ph)
 			3. Amazon (amazon.com)
 			4. Zalora (zalora.com.ph)
 		The scope in assessing the best deals will base on the price of the product, including the shipping fee, the specifications, and numerical reviews regarding the product. The product prices will be displayed in Philippine Peso.
+
+		The system will not be affiliated in selling products and will only act as an recommender system for finding the best deals.
 		
 	1.6.2	Scope and Limitation of the Study
 		This study will focus on the accuracy of the finding the best deals of a product selected by the user at the top online shopping websites.
@@ -68,4 +70,4 @@ Chapter 1
 	
 	Data Mining
 	
-	Online Shopping Websites
+	Online Shopping Websites. 
