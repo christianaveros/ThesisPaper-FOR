@@ -76,7 +76,7 @@ insert here bgots in slides
 			2. Shopee (shopee.ph)
 			3. Amazon (amazon.com)
 			4. Zalora (zalora.com.ph)
-		The scope in assessing the best deals will base on the price of the product, including the shipping fee, the specifications, and numerical reviews regarding the product. The product prices will be displayed in Philippine Peso.
+		The scope in assessing the best deals will base on the relevancy, availability, price including the shipping fee, specifications, and numerical reviews regarding the product. The product prices will be displayed in Philippine Peso.
 
 		The system will not be affiliated in selling products and will only act as an recommender system for finding the best deals.
 		
