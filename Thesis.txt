@@ -32,16 +32,12 @@ market suppliers. In today’s technological advantage, many shoppers prefer e-c
 
 	Filipinos like to bargain, since the old times, Filipino mothers would go to the market with a fixed money and
 get much more worth of their money for. Just imagine the hardwork of going through and bargaining to many stores just
-to lessen the pay for a similar product as well as avoiding similar low products. This is also true to online shoppers
+to lessen the pay for a similar product as well as avoiding similar low quality products. This is also true to online shoppers
 looking for looking for a specific product in a online store, they would search many online store just to get the best
-deal in there opinion. They would scan for reviews of the said product and sometimes, get scammed or did'nt get the
-expectation from the purchased product, so in this study, we will be excluding Online Shopping Websites that promotes
-secondhand products but will allow trusted users who promote secondhand products in well-known OSWs. One of the most
-common problem in OSWs is that there are scammers always present [Jean Magboo, 2014] so we are wary about keeping
-secondhand product data in our study. Most of the current OSWs doesn't affiliate with other OSWs mainly because they're
-racing in the cyber market industry as they might try to promote their products as the best or simply doesn't care to.
+deal in there opinion. They would scan for reviews of the said product and sometimes to avoid getting scammed or getting less than what you expected. One of the most
+common problem in OSWs is that there are scammers always present [Jean Magboo, 2014] even in the most trusted OSWs.
 
-	We would like to build a system that caters in the selection of similar products in which the user has to
+	The researchers plan to build a system that caters in the selection of similar products in which the user has to
 decide to buy or not. Getting the data only from the trusted OSW to minimize cyber market scamming and increasing the
 satisfaction rate of the users in selecting. Filtering only the 'best' deals in terms of reviews, quantity, and popularity
 to get the most-likely product to be picked by the user.
@@ -103,9 +99,9 @@ to get the most-likely product to be picked by the user.
 	
 	Data Mining. Process of extracting information from a large sets of data.
 	
-	Online Shopping Websites. Form of e-commerce that allows users to purchase commedities over the internet with the help of a web browser.
-
 	Online shoppers. Product consumers that uses Online Shopping Websites as their medium for purchasing.
+
+	Online Shopping Websites. Form of e-commerce that allows users to purchase commodities over the internet with the help of a web browser.
 
 	Scammers. People who extorts or uses dirty tactics to gain information, power, or money.
 
