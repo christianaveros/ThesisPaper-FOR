@@ -2,7 +2,7 @@ Chapter 1
 
 1.1 Introduction
 
-	In the fast-paced modern world, where technology progresses rampantly, we try to keep up with today's trends as well as needs. 
+	In the fast-paced modern world, where technology progresses rampantly, we try to keep up with today's trends as well as needs. Almost everything we do, we ask for the help of technology to make it easier for us. 
 
 // Today's paced towards technology, clinging to technology to makes life easier, 
 // becoming internet dependant (becoming a need)
@@ -18,7 +18,7 @@ Chapter 1
 
 	//background
 
-	Most Filipino shoppers have a hard time jumping to another store into other store just to find the best deals of their wanted product, may it be a new pair of shoes, shining jeans, or maybe a newly released branded cap. As much as we can, we bargain, bargain, and bargain, most modern Filipino women would go to mall after mall just to buy off on-sale product which is also true for old-fashion mothers who would prefer to bargain just to get deals from their market suppliers. In today’s technological advantage, many shopper prefer e-commerce as their mode of shopping [Kitonyi, 2017]. // problem in e-commerce, insert here bgots in slides
+	Most Filipino shoppers have a hard time jumping to another store into other store just to find the best deals of their wanted product, may it be a new pair of shoes, shining jeans, or maybe a newly released branded cap. As much as we can, we bargain, bargain, and bargain, most modern Filipino women would go to mall after mall just to buy off on-sale product which is also true for old-fashion mothers who would prefer to bargain just to get deals from their market suppliers. In today’s technological advantage, many shoppers prefer e-commerce as their mode of shopping [Kitonyi, 2017], primarily because internet is easy to access and buying is just a click away. // problem in e-commerce, insert here bgots in slides
 
 1.3 Conceptual Framework
 
@@ -33,13 +33,11 @@ Chapter 1
 
 	This study aims to develop a system that gets the best deal from various online shopping websites based on user’s search terms. // getting // finding out the deals, algo // accuracy of the results
 
-		1. Using the *algo1* algorithm, what is the accuracy of getting the relevant data from online shopping websites? // insert in conclusion, the percentage of accuracy.
+		1. Using the a-priori algorithm, what is the accuracy of getting the relevant data from online shopping websites? // insert in conclusion, the percentage of accuracy.
 		
-		2. How should the algorithm be devised in order to get the best deals out of the listed relevant product? And:
-			a.What is the accuracy of the devised algorithm of getting the best deals?
-			b.What is the reliability of the algorithm in getting the right best deals?
-		
-		3. // User experience related shit.
+		2. How should the algorithm be devised in order to get the best deals out of the listed relevant product?
+
+		3. What is the accuracy and reliabiity of the devised algorithm in getting the best deals?
 
 1.5 Significance of the Study
 
@@ -68,6 +66,6 @@ Chapter 1
 
 1.7 Definition of Terms
 	
-	Data Mining
+	Data Mining. Process of extracting information from a large sets of data.
 	
-	Online Shopping Websites. 
+	Online Shopping Websites. Form of e-commerce that allows users to purchase commedities over the internet with the help of a web browser.
