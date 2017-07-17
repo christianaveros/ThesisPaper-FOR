@@ -34,7 +34,17 @@ market suppliers. In today’s technological advantage, many shoppers prefer e-c
 get much more worth of their money for. Just imagine the hardwork of going through and bargaining to many stores just
 to lessen the pay for a similar product as well as avoiding similar low products. This is also true to online shoppers
 looking for looking for a specific product in a online store, they would search many online store just to get the best
-deal in there opinion. They would scan for reviews of the said product and 
+deal in there opinion. They would scan for reviews of the said product and sometimes, get scammed or did'nt get the
+expectation from the purchased product, so in this study, we will be excluding Online Shopping Websites that promotes
+secondhand products but will allow trusted users who promote secondhand products in well-known OSWs. One of the most
+common problem in OSWs is that there are scammers always present [Jean Magboo, 2014] so we are wary about keeping
+secondhand product data in our study. Most of the current OSWs doesn't affiliate with other OSWs mainly because they're
+racing in the cyber market industry as they might try to promote their products as the best or simply doesn't care to.
+
+	We would like to build a system that caters in the selection of similar products in which the user has to
+decide to buy or not. Getting the data only from the trusted OSW to minimize cyber market scamming and increasing the
+satisfaction rate of the users in selecting. Filtering only the 'best' deals in terms of reviews, quantity, and popularity
+to get the most-likely product to be picked by the user.
 
 
 // say some filipino related things here like we like to bargain, inheritly.
@@ -96,3 +106,11 @@ deal in there opinion. They would scan for reviews of the said product and
 	Online Shopping Websites. Form of e-commerce that allows users to purchase commedities over the internet with the help of a web browser.
 
 	Online shoppers. Product consumers that uses Online Shopping Websites as their medium for purchasing.
+
+	Scammers. People who extorts or uses dirty tactics to gain information, power, or money.
+
+References
+
+	Jean Magboo, http://lifestyle.inquirer.net/157606/safety-in-online-buying-and-selling/
+	American Online, Inc., https://www.clickz.com/internet-becoming-necessity-to-users/72138/
+	Kitonyi, *insert site here in docx*
