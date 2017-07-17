@@ -2,22 +2,21 @@
 
 1.1 Introduction
 
-	In the fast-paced modern world, where technology progresses rampantly, we try to keep up with today's
-trends as well as needs. In the fast-paced modern world, where technology progresses rampantly, we try to keep
+	In the fast-paced modern world, where technology progresses rampantly, we try to keep
 up with today's trends as well as needs. With the rise of technology, clinging unto technology makes our lives 
 easier, and some experts say that the internet can now be consider a need along with food and shelter 
 [Roper Starch Worldwide and America Online, Inc., 1998]. Everything is being digitalized as for our communication 
-and work-processes, and with the use of the internet and it's rapidly development, delivery systems are getting 
+and work-processes, and with the use of the internet and its rapid development, delivery systems are getting 
 more and more popular along side of online shopping websites (OSW). With that being said, it has a great affect 
-on us, Filipinos, especially modern Filipina buying stuff on the internet thru such OSW. 
+on us, Filipinos, especially modern Filipina buy products on the internet through OSW. 
 
-	More and more people all over in the Philippines can access the internet and it is still growing in numbers
-but there's a problem, How can we diminish the hardwork process of search through many OSWs just to get the best 
-deals? As a Filipino, I'm used to seeing my mother go through many store just to get the optimal price that is 
-accepted in our budget, sometimes, we even come to a point of bargaining or asking the store to lower the price
+	Most people all over the Philippines have access to the internet and they are still growing in numbers
+but there's a problem, how can we diminish the hardwork process of search through many OSWs just to get the best 
+deals? As a Filipino, I'm used to seeing my mother go through many store just to get the optimal price that  
+fits in our budget, sometimes, we even come to a point of bargaining or asking the store to lower the price
 if we're going to buy bulk of their products. Users would search for many websites to compare and analyze what is
 the best for their searched similar products, weighing in the reviews, quantity, and even quality just to make sure
-that they're making a good decision upon purchasing such product. So, we decided that we will be developing a system
+that they're making a good decision upon purchasing such product. Therefore, the researchers decided to develop a system
 to help with troubled online shoppers (OS).
 
 1.2 Background of the Study
