@@ -37,7 +37,7 @@ looking for looking for a specific product in a online store, they would search 
 deal in there opinion. They would scan for reviews of the said product and sometimes to avoid getting scammed or getting less than what you expected. One of the most
 common problem in OSWs is that there are scammers always present [Jean Magboo, 2014] even in the most trusted OSWs.
 
-	The researchers plan to build a system that caters in the selection of similar products in which the user has to
+	The researchers to build a system that caters in the selection of similar products in which the user has to
 decide to buy or not. Getting the data only from the trusted OSW to minimize cyber market scamming and increasing the
 satisfaction rate of the users in selecting. Filtering only the 'best' deals in terms of reviews, quantity, and popularity
 to get the most-likely product to be picked by the user.
