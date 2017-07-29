@@ -1,4 +1,8 @@
-﻿Chapter 1
+﻿Abstract
+
+	Data mining is 
+
+Chapter 1
 
 1.1 Introduction
 
@@ -110,3 +114,36 @@ References
 	Jean Magboo, http://lifestyle.inquirer.net/157606/safety-in-online-buying-and-selling/
 	American Online, Inc., https://www.clickz.com/internet-becoming-necessity-to-users/72138/
 	Kitonyi, *insert site here in docx*
+
+
+2.1 Review of Related Literature
+
+
+	2.1.1 Comparison of ecommerce products using web mining (1)
+
+		The authors said that one of the most important sources for all kinds of products is electronic commerce (e-commerce) and a great amount
+	of techniques have been developed to match customer's behaviour to attract more business and participation of people. As the rise of many e-commerce
+	websites available it becomes difficult to search and choose to buy a single product. [*insert name here (1)*, 2016]
+
+		The authors made it clear that using web scrapping techniques to get sources from abundant OSWs to get the best deals and merging them in a
+	single web interface will in turn save users time, money, and efforts to find the same product prices on different e-commerce websites [*insert name here*, 2016].
+ 
+	2.1.2 Data mining in electronic commerce benefits and challenges (2)
+
+		The main point of the paper is that the internet is great source of big data, structured or unstructured, that can be easily manipulated to
+	suit many technological/business needs. To handle from customer's internal processes, vendors, markets and business environment data, using the 3
+	most common algorithms: association, clustering, and prediction, in add benefits for e-commerce companies in merchandise planning, sale forecasting,
+	basket analysis, customer relationship management and market segmentation.
+
+		Focusing on the big data collected through various resources can review the application of Data-mining (DM) and it's importance with the use of
+	cloud computing. The study evaluates certain challenges of DM like spider identification, data transformations and making data model comprehensible to
+	business users. Saying that e-commerce companies having a large volume of data to easily manipulate can improve business in return will place them highly
+	competitive. [*insert name here (2)*, 2015]
+
+	2.1.3 Data mining methods for recommender systems
+
+		
+	2.1.4 Mining product reputations in the web
+
+
+

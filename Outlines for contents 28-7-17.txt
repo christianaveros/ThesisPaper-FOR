@@ -1,5 +1,11 @@
 Chapter 2
 
+2.1 Review of Related Literature
+
+2.2 Review of Related Studies
+	
+2.3 Synthesis of the Study
+	
 Data mining
 
 	- techniques (algorithms mostly, and proposed algo to be devised)
