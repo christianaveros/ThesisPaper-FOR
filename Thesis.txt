@@ -49,7 +49,6 @@ to get the most-likely product to be picked by the user.
 
 	1.3.1	Conceptual Framework of the System
 
-	// insert accuracy related concepts
 
 	TABLE FORM:
 	input > user’s search terms, OSW. Process > search the terms at osw using data mining, filtering item to display the best deals. Output > Best deals.
