@@ -1,0 +1,12 @@
+Introduction
+
+- add data visualization
+	- data clustering
+
+- include last.fm's visualization
+
+Chapter 1 and 2
+
+- revise if necesssary and add more information towards on what's building
+
+System Architecture
