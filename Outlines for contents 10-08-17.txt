@@ -8,5 +8,5 @@ Introduction
 Chapter 1 and 2
 
 - revise if necesssary and add more information towards on what's building
-
+- add citation in 'Shopping section'
 System Architecture
