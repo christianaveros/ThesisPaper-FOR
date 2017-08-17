@@ -1,0 +1,15 @@
+// Add definition of visualization, on website
+// add how the visualization can affect user's review and ease of access
+// include here how important this is on the side of users
+// say something about the researchers/developers being CGV compsci students.
+// say something about adding a simple visualization ccan help users differentiate things
+
+	Visualization is the representation of data in which is any technique for creating images, animations, and etc. to
+convey a message. Truly, life would be boring if there weren't many colors or shapes around. Both became one of the major 
+tools in life for differentiating and comparing. In today's application of visualization, one of the tools it is used for, 
+when it comes to websites and computer applications, is helping the users' on their experiences. It help them in the form
+of 'navigation', or even the color and theme of the website to give more feeling of appropriate based on the contents.
+
+	With the visualization as the main part of knowing, and criticing, and differentiating can be implemented in a decision
+support system in which colors and shape helps in choosing one in the items in question. ------------------ Add here the last paragraph in bgots -----
+ 
