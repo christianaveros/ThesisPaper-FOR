@@ -1,0 +1,118 @@
+Data mining
+- techniques
+- tools
+- applications
+
+	In the ever expanding data collection and data storage, Data Mining (DM) has been a logical process used to search useful information through piles of data. [1] Since data sets has become more complex and larger than it was, DM was improved by different algorithms discovered and developed in the field of computer science. DM is an important task in knowledge discovery in databases (KDD). [2] KDD consists procedures including [3]: 
+1) selection of data from varying sources; 
+2) preprocessing or data reduction;
+3) transformation of data;
+4) identifying the desired result; and
+5) interpretation and analysis to give relevant information. 
+
+There are several DM techniques developed and applied in KDD [4]:
+Association. Association is one of the best known data mining
+technique. In association, a pattern is discovered based on a
+relationship of a particular item on other items in the same
+transaction. For example, the association technique is used in
+reservation systems analysis to identify in which area
+customers frequently make reservations. Based on this data
+businesses can set up corresponding reservation counters in
+that area to sell more tickets and make more profit.
+
+Classification. Classification is based on machine learning.
+Classification method makes use of mathematical techniques
+such as decision trees, linear programming, neural network
+and statistics. Basically classification is used to categorize
+each item in a set of data into one of predefined set of classes
+or groups[4]. For example, we can apply classification in
+application that “given all past records of employees who
+left the company, predict which current employees are
+probably to leave in the future.” In this case, we divide the
+employee’s records into two groups that are “leave” and
+“stay”.
+
+Clustering. Clustering is a data mining technique that makes
+meaningful or useful cluster of objects that have similar
+characteristic using automatic technique. Different from
+classification, clustering technique also defines the classes
+and put objects in them, while in classification objects are
+assigned into predefined classes. Consider library as an
+example. In a library, books have a wide range of topics
+available. The challenge is how to keep those books in a way
+that readers can take several books in a specific topic without
+hassle. By using clustering technique, we can keep books
+that have some kind of similarities in one cluster or one shelf
+and label it with a meaningful name. If readers want to grab
+books in a topic, he or she would only go to that shelf instead
+of looking the whole in the whole library.
+
+Prediction. It is one of a data mining techniques that discover
+relationship between independent variables and relationship
+between dependent and independent variables [3]. For
+instance, prediction technique can be used in Library to
+predict books that need to be purchased for the future if we
+assume that the courses offered by a university are constant.
+Courses are independent variable, and books could be a
+dependent variable.
+
+Sequential Patterns. Sequential patterns analysis is one of data mining
+technique that seeks to discover similar patterns in data
+transaction over a business period. The uncover patterns are
+used for further business analysis to recognize relationships
+among data.
+
+Discrimination. Data discrimination produces what are
+called discriminant rules and is basically the comparison of
+the general features of objects between two classes referred
+to as the target class and the contrasting class. For example,
+one may want to compare the general characteristics of the
+customers who rented more than 30 movies in the last year
+with those whose rental account is lower than 5. The
+techniques used for data discrimination are very similar to
+the techniques used for data characterization with the
+exception that data discrimination results include
+comparative measures [1]
+
+DM is currently used in wide range of industries that holds a large amount of data and is commonly combining it in other tools that can enhance the power of DM in various fields. [1] Some of these fields include the field of biological science to analyze sequential pattern in genes and identify various diseases related to it. Finance industries use DM for price prediction, stock forecasting, identify frauds and money laundering. [2] Sales industry also use DM as in different ways [5]:
+1) information broker for customer buying habits, from transaction histories to loyalty card usage. Because of this, supermarkets can predict customer behavior and act upon it for customer satisfaction and better sales.
+2) recommendation-based business that tracks customer's bought items and offer customer new items that they might also like.
+3) keeping good customers that boosts sales and avoiding fraudulent, bad customers.
+4) decision support system for both business holders and/or customers[6]
+5) other applications that can build customer relationship.
+
+
+
+
+[1] DATA MINING TECHNIQUES AND APPLICATIONS
+Mrs. Bharati M. Ramageri, Lecturer
+Modern Institute of Information Technology and Research,
+Department of Computer Application, Yamunanagar, Nigdi 
+
+[2] DATA MINING: CONCEPTS, BACKGROUND AND METHODS OF INTEGRATING UNCERTAINTY IN DATA MINING
+Yihao Li, Southeastern Louisiana University
+Faculty Advisor: Dr. Theresa Beaubouef, Southeastern Louisiana University 
+
+[3] Use of Data Mining in Various Field: A Survey Paper May-Jun. 2014
+Smita, Priti Sharma
+(Student, M.Tech, Amity University)
+(Assistant Professor, Amity University)
+
+[4] Aakanksha Bhatnagar, Shweta P. Jadye, Madan Mohan Nagar” Data Mining Techniques & Distinct Applications: A Literature
+Review” International Journal of Engineering Research & Technology (IJERT) Vol. 1 Issue 9, November- 2012
+
+[5] Data Mining Techniques for Marketing, Sales, and Customer Support march 2004
+Michael J.A. Berry
+Gordon S. Linoff 
+
+[6]Data Mining and Warehousing  April 3-5, 2014
+Ali Radhi Al Essa
+School of Engineering
+University of Bridgeport
+Bridgeport, CT, United States
+aalessa@my.bridgeport.edu
+Bach, Christian
+School of Engineering
+University of Bridgeport
+Bridgeport, CT, United States
+cbach@bridgeport.edu

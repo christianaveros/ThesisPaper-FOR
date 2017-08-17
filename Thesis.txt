@@ -1,4 +1,8 @@
-﻿Chapter 1
+﻿Abstract
+
+	Data mining is 
+
+Chapter 1
 
 1.1 Introduction
 
@@ -21,8 +25,6 @@ to help with troubled online shoppers (OS).
 
 1.2 Background of the Study
 
-	//background
-
 	Most Filipino shoppers have a hard time jumping to another store into other store just to find the best deals 
 of their wanted product, may it be a new pair of shoes, shining jeans, or maybe a newly released branded cap. As much
 as we can, we bargain, bargain, and bargain. Most modern Filipino women would go to mall after mall just to buy off 
@@ -43,19 +45,10 @@ satisfaction rate of the users in selecting. Filtering only the 'best' deals in 
 to get the most-likely product to be picked by the user.
 
 
-// say some filipino related things here like we like to bargain, inheritly.
-// say here the manual hardwork process of compared similar products
-// the problem of buying from secondhand promoting online stores, *include a study here about that*
-// include here some more studies of the same type. highlight the pros, what went good.
-// then the ones that need improvements
-// the main features needed (or what features we are intended to add)
-// say that we will build that.
-
 1.3 Conceptual Framework
 
 	1.3.1	Conceptual Framework of the System
 
-	// insert accuracy related concepts
 
 	TABLE FORM:
 	input > user’s search terms, OSW. Process > search the terms at osw using data mining, filtering item to display the best deals. Output > Best deals.
@@ -110,3 +103,61 @@ References
 	Jean Magboo, http://lifestyle.inquirer.net/157606/safety-in-online-buying-and-selling/
 	American Online, Inc., https://www.clickz.com/internet-becoming-necessity-to-users/72138/
 	Kitonyi, *insert site here in docx*
+
+
+2.1 Review of Related Literature
+
+
+	2.1.1 Comparison of ecommerce products using web mining (1)
+
+		The authors said that one of the most important sources for all kinds of products is electronic commerce (e-commerce) and a great amount
+	of techniques have been developed to match customer's behaviour to attract more business and participation of people. As the rise of many e-commerce
+	websites available it becomes difficult to search and choose to buy a single product. [*insert name here (1)*, 2016]
+
+		The authors made it clear that using web scrapping techniques to get sources from abundant OSWs to get the best deals and merging them in a
+	single web interface will in turn save users time, money, and efforts to find the same product prices on different e-commerce websites [*insert name here*, 2016].
+ 
+	2.1.2 Data mining in electronic commerce benefits and challenges (2)
+
+		The main point of the paper is that the internet is great source of big data, structured or unstructured, that can be easily manipulated to
+	suit many technological/business needs. To handle from customer's internal processes, vendors, markets and business environment data, using the 3
+	most common algorithms: association, clustering, and prediction, in add benefits for e-commerce companies in merchandise planning, sale forecasting,
+	basket analysis, customer relationship management and market segmentation.
+
+		Focusing on the big data collected through various resources can review the application of Data-mining (DM) and it's importance with the use of
+	cloud computing. The study evaluates certain challenges of DM like spider identification, data transformations and making data model comprehensible to
+	business users. Saying that e-commerce companies having a large volume of data to easily manipulate can improve business in return will place them highly
+	competitive. [*insert name here (2)*, 2015]
+
+	2.1.3 Data mining methods for recommender systems
+
+		
+	2.1.4 Mining product reputations in the web
+
+
+
+Shopping
+
+		Shopping is the activity of trading goods and products for other goods and products. Simply put, exchanging a product for a more benefiting one,
+	this can be; food, tools, money, ad etc. depending on your needs. In the early age of man, the art of exchanging goods took place in which leads to easier
+	lives of the customers for they don't even have to hunt or gather the food themselves in which fasten the growth of many communities. Markets or shopping
+	malls have been the main place of trading, but they're often in urban areas or in the middle of the city which can be, depending where you live or just lazy,
+	can be hard to go to.
+
+		As technology develop and as our understanding of computers and the internet as well as the remaining difficulty of going to the market place,
+	landlines, the internet and trading companies gave birth to ticket booking and food delivery services, and online shopping websites (OSWs). Pizzas, clothes, 
+	and pizza, can be delivered in front of your doorstep in a matter of minutes by the usage of the internet by visiting such OSWs. But bewary of scammers especially
+	in the e-shopping category as they run rampant waiting for an user to be conned.
+
+		As the danger of scammers aren't enough, one of the most commonly problem encountered by many users is the tedious work of manually comparing and
+	searching of a particular type of product in many OSWs. Users have to go to multiple OSW just to type in the same keywords and is faced with many similar product
+	in that OSW plus many more with the other OSWs. Reviewing the 'reviews', as well as looking in to the quantity, and the quality of the searched product come hand
+	in hand which makes it hard for the comparison process thus making a decisive and long decision.
+
+		Fortunately, 'Comparison of ecommerce products using web mining authors', have started a way for tackling this issue way easier with the use of Data mining.
+	Studying the HTML code structure of international OSWs such as Lazada and Amazon, and using webscrawling spider to scrape out unstructured data and organizing them
+	to a meaningful data. They let the user input search terms that will display the comparing pair deals, successfully lessening the user's time for searching manually.
+	Displaying it in a single-view page for users to view and pick what they desire. However, displaying and adding a table of comparison for such products still doesn't
+	solve the problem of finding the best deals a site can offer. Finding the best deals have to account the reviews of other users, quality, quantity, and availabity of
+	the product. 
+
