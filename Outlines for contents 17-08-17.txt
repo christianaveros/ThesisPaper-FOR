@@ -1,3 +1,0 @@
-Expand system archi
-	expand the flow of displaying the data as well as webcrawling (WC) and data scraping (DC)
-	* might include different paths for each OSWs about WC & DC but might show similarities reflecting redundancy, so might not happen.

@@ -1,0 +1,59 @@
+3.1 Research method used
+
+// Discuss here how the respondents will navigate and how if the output is 'accurate' and 'reliable'
+
+3.2 Research Paradigm
+
+// Grapical presentation of the 'testing' of the system as well as the flow of the 'testing'
+
+3.3 System Architecture
+
+// Graphical presentation of the flow of the system
+
+	3.3.1 Preprocessing
+
+	// system process to be readied in the Main process. ex. DM from OSWs
+
+	3.3.2 Main Process
+	
+	// system process to be done. comparing, removing redundant data, choosing best deals out of many deals, packaging it to be displayed in batch
+
+	3.3.3 Post process
+
+	// output product. Display the content. User interface, VISUALIZATION!!
+3.4 Population Frame and Sample
+
+// Discuss here where we will get the data, OSWs.
+// discuss here the limit of the output file. ex. 10 datasets from X data mined data
+
+3.5 Description of the Respondents
+
+// describe here who is the respondents or the one who gives the accuracy of the system
+// in our case, it is us, the researchers/others because we feed in data to the system and have to
+// evaluate the accuracy and reliability of the output product.
+
+3.6 Sampling Technique
+
+// used by the researchers 
+
+3.7 Intrumentation
+
+// discuss here all the software used, django, python, scrawler, webmining
+// platforms involved, OSWs, scopes & limitation
+// what the system inputs and outputs are
+// how the algorithm is used, a priori algo, in what way
+// recall statistical formulas in 3.9
+// how the experiment is structured, what it's composed of, variables in play
+// again discussing how those variables to be included. explained.
+
+3.8 Data Gathering Procedure
+
+// Elaborate here how the Data gathering (DG) process used by the researchers
+// include here an example data sets or preset data for a quick process of DG
+
+
+3.9 Statistical Treatment
+
+// Measurements of accuracy and reliabity formulas here
+// and elaborate how does those variables come in to play
+// also, include the translation of acronyms to be used in the formula ex. ar = accuracy rate, tp = true positive, Excellent = greater than 0.9, etc.
