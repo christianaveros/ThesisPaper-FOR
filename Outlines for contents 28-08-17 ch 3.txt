@@ -2,6 +2,10 @@
 
 // Discuss here how the respondents will navigate and how if the output is 'accurate' and 'reliable'
 
+	TIPid: Decision Support System on E-Shopping Products through Graphical Visualization and Data Mining is a system
+in which helps the users decide on what to buy on OSWs. The system will be given search terms by the researchers and then will
+evaluate the accuracy of the output product.
+
 3.2 Research Paradigm
 
 // Grapical presentation of the 'testing' of the system as well as the flow of the 'testing'
@@ -13,14 +17,19 @@
 	3.3.1 Preprocessing
 
 	// system process to be readied in the Main process. ex. DM from OSWs
+		The respondents will input search terms data in which the system will crawl through the scoped OSWs with the search 
+	terms as 'seed' or the primary 
 
 	3.3.2 Main Process
 	
 	// system process to be done. comparing, removing redundant data, choosing best deals out of many deals, packaging it to be displayed in batch
+	The scraped data will be structured and compared using a-priori algorithm. The output will/is consists of 'best deals'
 
 	3.3.3 Post process
 
 	// output product. Display the content. User interface, VISUALIZATION!!
+	The 'best deals' will be then displayed in a single-view webpage in which helps the respondents // elaborate
+
 3.4 Population Frame and Sample
 
 // Discuss here where we will get the data, OSWs.
@@ -28,6 +37,7 @@
 
 3.5 Description of the Respondents
 
+	The respondents is the research as they will give search terms and will evaluate the accuracy and reliability
 // describe here who is the respondents or the one who gives the accuracy of the system
 // in our case, it is us, the researchers/others because we feed in data to the system and have to
 // evaluate the accuracy and reliability of the output product.
