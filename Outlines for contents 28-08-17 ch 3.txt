@@ -48,7 +48,7 @@ evaluate the accuracy of the output product.
 
 3.7 Intrumentation
 
-// discuss here all the software used, django, python, scrawler, webmining
+// discuss here all the software used, django, python, crawler, webmining
 // platforms involved, OSWs, scopes & limitation
 // what the system inputs and outputs are
 // how the algorithm is used, a priori algo, in what way
