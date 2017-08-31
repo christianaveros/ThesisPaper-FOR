@@ -1,0 +1,18 @@
+WILSON SCORE INTERVAL
+
+https://stackoverflow.com/questions/10029588/python-implementation-of-the-wilson-score-interval
+
+http://www.evanmiller.org/how-not-to-sort-by-average-rating.html
+
+https://onextrapixel.com/how-to-build-a-5-star-rating-system-with-wilson-interval-in-mysql/
+
+ACCURACY
+
+https://www.sophia.org/tutorials/accuracy-and-precision--3
+
+GRAPHICS
+
+http://www3.cs.stonybrook.edu/~qin/courses/geometry/fundamental-techniques-graphics-visualization.pdf
+
+
+https://github.com/mpkato/interleaving

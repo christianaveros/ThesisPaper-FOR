@@ -16,10 +16,25 @@ Presents the technique utilized in the selection of samples. (Sampling Technique
 		3.3.1.1 system architecture
 			// Presents the overall idea of the proposed technology including but not limited to the development 
 		tools and programming language used (e.g. In case the proposal is text to voice, restrictions as to the type 
-		of input ñ word/root word or sentence.
+		of input ÅEword/root word or sentence.
+
+			Data Mining
+				The product keyword will be used in order to get the specific items from OSWs. A-Priori algorithm is used to maintain the relevance and consistency of the products that is searched. Each product will have its information extracted and stored in database.
+
+			Data Analysis
+				After the several amounts of relevant items are stored, the items will be placed in two sets. One set will be sorted starting with the lowest price and another set will be sorted according to the Bayesian estimate of the reviews.
 
 		3.3.1.2 Development details
-			Discuess how the system will be developed. Present all tools that was used in the implementation.
+			//Discusess how the system will be developed. Present all tools that was used in the implementation.
+			The researcher's will use the following tools in order to develop the system:
+		 	
+			Python. A multi-paradigm programming language with high-level data structures and highly readable syntax that can be used on most platforms. This language will be used to create the backend for the system.
+
+			Django Framework. A server-side web framework written in Python which will be used to create the user-interface for the system.
+
+			Scrapy. A web crawling framework written in Python. This will be used to crawl and extract data from various data sources.
+
+			Diffbot API. Application program interface that will be used to extract specific data from a site.
 
 	3.3.2 Research instrument
 	
