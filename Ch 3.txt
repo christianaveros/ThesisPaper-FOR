@@ -45,6 +45,34 @@ Presents the technique utilized in the selection of samples. (Sampling Technique
 
 	// Narrative explanation detailing the step-by-step courses of action done in order to obtain the data.
 
+	The following are the procedures in gathering data used by the researchers for the study:
+		
+	1. Software related data
+		1.1. 15 data sets per OSW each for a total of 45 datasets were gathered will be stored in a database.
+		1.2. The data acquired from the 4 OSWs are then further reduced and extracted only the best out of all the data.
+		1.3. The data sets of 'best deals' are sorted according to the respondent's preference and finally displayed.
+	
+	2. Survey & testing data
+		2.1. A regression tests of 50 unique search terms are used as testing data sets. The testing data sets are then
+		evaulated for accuracy in getting the extracted best data sets.
+		2.2. Repeated the 50 regression test given the same data sets for the testing of reliability of extracted best data sets.
+
 3.5 Data Analysis
 
 	// Presents the statistical tools used in manipulation the data.
+	
+
+	// how does a data set qualified as a best deal
+		// quantity, Qt
+		// review, R
+		// quality, Ql
+		// price, P
+		// ranking, rk
+
+	// shitty formula for each data set. Standard deviation
+
+		//dataset_X, 1st one (ds1) will be set to 1 for all variables RK=(Average QT+Average R+ Average QL+ Average P)/4
+	
+			if ds2 has better QT then ds1.QT=(ds1.QT/ds2.Qt) if not then ds2.QT=(ds2.QT/ds1.Qt). just change the base
+
+	

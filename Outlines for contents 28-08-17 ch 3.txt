@@ -1,3 +1,5 @@
+include wilson score algo
+
 3.1 Research method used
 
 // Discuss here how the respondents will navigate and how if the output is 'accurate' and 'reliable'
