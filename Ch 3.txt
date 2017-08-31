@@ -1,0 +1,35 @@
+Ch 3 Research Methodology
+
+3.1 Research design
+
+	// Presents the design to which the study was patterned (i.e. Descriptive, Normative, Correlational Study, 
+2-Pair Group Experimental Design, etc.
+
+3.2 Sources of data
+
+	// Presents the entire population from which the representative group was extracted.
+Description of Respondents. It paints a picture of the characteristics of the research participants to whom data was obtained.
+Presents the technique utilized in the selection of samples. (Sampling Technique)
+
+3.3 Intrumentation
+	3.3.1 Software/hardware tools
+		3.3.1.1 system architecture
+			// Presents the overall idea of the proposed technology including but not limited to the development 
+		tools and programming language used (e.g. In case the proposal is text to voice, restrictions as to the type 
+		of input – word/root word or sentence.
+
+		3.3.1.2 Development details
+			Discuess how the system will be developed. Present all tools that was used in the implementation.
+
+	3.3.2 Research instrument
+	
+		// Presents the tools used in gathering data, usually in the form of Survey Questionnaires or Experiment Paper. 
+	The software/system is not an instrument rather it is the object to which the instrument is used/applied.
+
+3.4 Data Generation
+
+	// Narrative explanation detailing the step-by-step courses of action done in order to obtain the data.
+
+3.5 Data Analysis
+
+	// Presents the statistical tools used in manipulation the data.
