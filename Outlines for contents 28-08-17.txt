@@ -1,4 +1,6 @@
-include wilson score algo
+include basean estimate
+
+price and reviews focused
 
 3.1 Research method used
 

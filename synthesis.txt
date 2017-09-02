@@ -1,0 +1,23 @@
+// justifies that despite the presence of a multitude of studies
+what is being proposed is unique and worth pursuing.
+
+There have been several studies conducted in the field of painting classification. However, most
+of the researches focused only on painter identification and authentication and some are style
+specific. In this study, the researchers attempt to classify the digital captures of paintings using 6
+different styles such as Baroque, Impressionism, Abstract, Cubism, Expressionism, and Pop art.
+It was cited in the related literature that choosing the appropriate feature is essential to increase
+the effectiveness of a particular learning algorithm. Similar to the previous studies, the study
+undergoes two process, feature extraction and classification. For the feature extraction stage, the
+global and local characteristics of the paintings were extracted from the image. For the global
+features, the researchers applied the method used by [Zujovic et al. 2009] which includes the edge,
+texture and color component of the painting. On the other hand, the researcher used the Bag-ofWords
+model representation for the local features, the same approach used in the study of [Khan et
+al. 2014] and [Arora and Elgammal 2012]. The researchers will determine if combining such features
+of the painting used in the previous studies will yield a higher accuracy when it comes to the
+classification by style.
+Given the set of features, the researchers need to build proper classifier to combine the features
+together. Among all the algorithms used, the researchers used Naïve Bayes algorithm as our
+classifier. Based on the studies mentioned above, Naïve Bayes performed as one of the best
+classifier. Furthermore, the cited researches about painting analysis and classification by style are
+not that accurate and mostly are foreign studies.
+
