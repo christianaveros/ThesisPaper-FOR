@@ -5,13 +5,25 @@ Ch 3 Research Methodology
 	// Presents the design to which the study was patterned (i.e. Descriptive, Normative, Correlational Study, 
 2-Pair Group Experimental Design, etc.
 
+	The research design of this study used the Experimental research design. The aim of the experiment is to determine if the system is a reliable and
+accurate approach in the deliverance of gathered best deals in the selected OSWs. With the used of this design, the researchers have reached and come up with
+the answers to the questions stated in the Statement of the problem.
+
+	In determining the overall performance of the system in gathering the best deals, the researchers lead an experiment. The respondents, described in the Research
+instrument in Instrumentation, compare the system's actual output and the expected result by the researchers to measure the system's performance in accuracy, reliability,
+and consistency in getting the best deals.  
+
 3.2 Sources of data
 
 	// Presents the entire population from which the representative group was extracted.
 Description of Respondents. It paints a picture of the characteristics of the research participants to whom data was obtained.
 Presents the technique utilized in the selection of samples. (Sampling Technique)
 
-3.3 Intrumentation
+	The respondents are both the researchers and searching online shoppers. The respondents used search terms to train
+the system and is given a set of possible best deals. The respondents then evaluated the accuracy and reliability of the 
+system. 
+
+3.3 Instrumentation
 	3.3.1 Software/hardware tools
 		3.3.1.1 system architecture
 			// Presents the overall idea of the proposed technology including but not limited to the development 
@@ -40,7 +52,11 @@ Presents the technique utilized in the selection of samples. (Sampling Technique
 	
 		// Presents the tools used in gathering data, usually in the form of Survey Questionnaires or Experiment Paper. 
 	The software/system is not an instrument rather it is the object to which the instrument is used/applied.
-
+		The following are the procedure that the researchers used in gathering data:
+			1. The respondents used search terms derived from their desired online shop product (OSP) and used it for training the system. A separate consistent set
+		of search terms are used for testing and training the system.
+			2. The consistent set of search terms that the researchers used for training the system is used to evaluate the consistency and reliability of the system.
+			3. Both the respondents' and consistent set of search terms are used and evaluated for the evaluation of the accuracy in getting the 'best deals'.
 3.4 Data Generation
 
 	// Narrative explanation detailing the step-by-step courses of action done in order to obtain the data.
@@ -60,19 +76,8 @@ Presents the technique utilized in the selection of samples. (Sampling Technique
 3.5 Data Analysis
 
 	// Presents the statistical tools used in manipulation the data.
-	
+	The method of Bayesian Approximation is used for evaluation of the ranking in the 'scraped' data sets.
 
-	// how does a data set qualified as a best deal
-		// quantity, Qt
-		// review, R
-		// quality, Ql
-		// price, P
-		// ranking, rk
-
-	// shitty formula for each data set. Standard deviation
-
-		//dataset_X, 1st one (ds1) will be set to 1 for all variables RK=(Average QT+Average R+ Average QL+ Average P)/4
-	
-			if ds2 has better QT then ds1.QT=(ds1.QT/ds2.Qt) if not then ds2.QT=(ds2.QT/ds1.Qt). just change the base
+	// insert here the fancy variable letters and their meaning 
 
 	
