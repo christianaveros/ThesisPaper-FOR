@@ -21,3 +21,19 @@ classifier. Based on the studies mentioned above, Naïve Bayes performed as one o
 classifier. Furthermore, the cited researches about painting analysis and classification by style are
 not that accurate and mostly are foreign studies.
 
+
+There have been many studies that concerns in the field of datamining and visualization. One of the
+main researches that drives the researchers is the 'Comparison of E-commerce products in using web mining' research
+done in Savitribai Phule Pune University in where the users inputs two or more products to compare in a
+single page website [****include number for rl****]. However, the main problem is that the users are required to search for such products
+for it to compare.  In this study, the researchers attempt to gather data from the leading OSWs automatically
+responding the search terms or input of the users. Using the input of the user, the system then will
+collect products related to the input from the OSWs and finally, displayed according to their ranking.
+As a decision support system, the system focuses on visualizing the products in a way that help convey the
+difference among the products as well as magnify the pros and cons.
+
+For the gathering data relevant to the desired product of the user, the researchers used A priori algorithm
+for getting the frequent relevant itemsets [****include here the number directing to Apriori algorithm****].
+The prune data in will be then subjected to an algorithm called Interleaved ranking algorithm with bayesian
+estimation to find the best deals to be visualize in a single view page. For the visualization, the users
+can view graphs and statistics which can help in deciding on what to buy.
