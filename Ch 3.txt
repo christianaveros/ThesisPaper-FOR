@@ -6,8 +6,8 @@ Ch 3 Research Methodology
 2-Pair Group Experimental Design, etc.
 
 	The research design of this study used the Experimental research design. The aim of the experiment is to determine if the system is a reliable and
-accurate approach in the deliverance of gathered best deals in the selected OSWs. With the used of this design, the researchers have reached and come up with
-the answers to the questions stated in the Statement of the problem.
+accurate approach in the delivery of gathered best deals in the selected OSWs. With the use of this design, the researchers have reached and come up with
+the answers to the questions stated in the statement of the problem.
 
 	In determining the overall performance of the system in gathering the best deals, the researchers lead an experiment. The respondents, described in the Research
 instrument in Instrumentation, compare the system's actual output and the expected result by the researchers to measure the system's performance in accuracy, reliability,
@@ -28,13 +28,17 @@ system.
 		3.3.1.1 system architecture
 			// Presents the overall idea of the proposed technology including but not limited to the development 
 		tools and programming language used (e.g. In case the proposal is text to voice, restrictions as to the type 
-		of input ÅEword/root word or sentence.
+		of input word/root word or sentence.
 
 			Data Mining
 				The product keyword will be used in order to get the specific items from OSWs. A-Priori algorithm is used to maintain the relevance and consistency of the products that is searched. Each product will have its information extracted and stored in database.
 
 			Data Analysis
-				After the several amounts of relevant items are stored, the items will be placed in two sets. One set will be sorted starting with the lowest price and another set will be sorted according to the Bayesian estimate of the reviews.
+				After the several amount of relevant items are stored, the items will be placed in two sets. One set will be sorted starting with the lowest price and another set will be sorted according to the Bayesian estimate of the reviews. These two sets will undergo through interleaved ranking to get the best deals from the two differently ranked sets.
+
+            Data Visualization
+                The best deals will show results starting from the top ranked item down to the tenth. It will also show a line graph that will compare and show difference between the ranked products.
+                
 
 		3.3.1.2 Development details
 			//Discusess how the system will be developed. Present all tools that was used in the implementation.
@@ -47,6 +51,8 @@ system.
 			Scrapy. A web crawling framework written in Python. This will be used to crawl and extract data from various data sources.
 
 			Diffbot API. Application program interface that will be used to extract specific data from a site.
+
+            Graphos. Application that will be used to render graphs.
 
 	3.3.2 Research instrument
 	
@@ -64,14 +70,14 @@ system.
 	The following are the procedures in gathering data used by the researchers for the study:
 		
 	1. Software related data
-		1.1. 15 data sets per OSW each for a total of 45 datasets were gathered will be stored in a database.
-		1.2. The data acquired from the 4 OSWs are then further reduced and extracted only the best out of all the data.
+		1.1. Fifteen (15) product data sets per OSW each for a total of forty-five (45) products data sets were gathered will be stored in a database.
+		1.2. The data acquired from the four (4) OSWs are then further reduced and extracted only the best out of all the data.
 		1.3. The data sets of 'best deals' are sorted according to the respondent's preference and finally displayed.
 	
 	2. Survey & testing data
-		2.1. A regression tests of 50 unique search terms are used as testing data sets. The testing data sets are then
+		2.1. A regression tests of fifty (50) unique search terms are used as testing data sets. The testing data sets are then
 		evaulated for accuracy in getting the extracted best data sets.
-		2.2. Repeated the 50 regression test given the same data sets for the testing of reliability of extracted best data sets.
+		2.2. Repeated the fifty (50) regression test given the same data sets for the testing of reliability of extracted best data sets.
 
 3.5 Data Analysis
 
