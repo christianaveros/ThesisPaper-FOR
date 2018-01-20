@@ -1,0 +1,13 @@
+BAYESIAN ESTIMATION
+
+In order to avoid from bad product or service, consumers rely on product reviews by other consumers. Consumers automatically prejudge products on a five-star rating. This method is powerful and easy to understand but it can be mishandled when ranked since five-star ratings depends not only on the average number of stars but the average number of reviews. Take for example Product A with an average rating of 5 and a single review, and Product B with an average rating of 4 but has a hundred reviews. Not all cons Bayesian Estimation is an empirical metric that considers both average and number of reviews. This is done by using a probability distribution for each reviews given by a consumer on a specific product. By making a threshold parameter and taking a minimum number of ratings as a confidence for the threshold, a product is weighed according to the reviews it has received while still taking into consideration the true average of the product. Bayesian estimation is used in review sites such as IMDb.  
+
+http://cs.umd.edu/~bengfort/tutorials/computing-a-bayesian-estimate-of-star-rating-means/
+
+https://districtdatalabs.silvrback.com/computing-a-bayesian-estimate-of-star-rating-means
+
+INTERLEAVING
+
+In product information retrieval where there are different factors to consider such as price and reviews, they, of course, are ranked differently depending how it is filtered. In order to make data retrieval efficient, the approach is to compare both rankings and display a single ranked list to the user. Both ranking are interpreted in an unbiased way and presented to the user to be more interpretable. One way of interleaving is by teamdraft wherein in adapts the analogy of selecting teams in a sports match. This way, both ranks are considered equally appending each item on the interleaved list in a alternate manner.
+
+https://www.cs.cornell.edu/people/tj/publications/chapelle_etal_12a.pdf
